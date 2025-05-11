@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📦 Web API Project – Applying RESTful API Concepts
 
 ## Overview
@@ -35,7 +34,4 @@ This repository contains a sample ASP.NET Core Web API project that demonstrates
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-=======
-# ReviewApiApp
->>>>>>> 2066608 (Add project files.)
+   git clone https://github.com/KhaledKhaledwn/Review-WebApi.git
